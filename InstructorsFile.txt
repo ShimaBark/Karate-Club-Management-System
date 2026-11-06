@@ -1,0 +1,7 @@
+2##//##Sara Khalid##//##Abu Dhabi##//##0502223344##//##Black Belt - 3rd Dan##//##White
+3##//##Omar Ali##//##Dubai##//##0503334455##//##Black Belt - 5th Dan##//##Yellow
+4##//##Mariam Salem##//##Al Ain##//##0504445566##//##Black Belt - 2nd Dan##//##Orange
+5##//##Yousef Ahmed##//##Sharjah##//##0505556677##//##Black Belt - 4th Dan##//##Green
+7##//##Khalid Mansoor##//##Al Ain##//##0507778899##//##Black Belt - 6th Dan##//##Blue
+8##//##Fatima Saeed##//##Dubai##//##0508889900##//##Black Belt - 2nd Dan##//##Brown
+9##//##Sultan Rashid##//##Sharjah##//##0509990011##//##Black Belt - 5th Dan##//##Black
