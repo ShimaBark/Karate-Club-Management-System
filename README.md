@@ -41,3 +41,23 @@ Technologies
 Java | JavaFX | OOP | Three-Layer Architecture | Bitwise Operations | File I/O | Java Collections | JavaFX Charts
 
 This project emphasizes software design, business-rule enforcement, access control, and maintainable architecture, going beyond basic CRUD functionality to model practical karate club management operations.
+
+## Application Screenshots
+
+### Login Page
+![Login](screenshots/Login.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Members Management
+![Members](screenshots/MembersPage.png)
+
+### Users Management
+![Users](screenshots/UsersPage.png)
+
+### Add User
+![Add User](screenshots/AddUser.png)
+
+### Update Member
+![Update Member](screenshots/UpdateMember.png)
